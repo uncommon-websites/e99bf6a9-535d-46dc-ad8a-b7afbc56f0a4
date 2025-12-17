@@ -1,16 +1,16 @@
 <script>
 </script>
 
-<section class="bg-[#2563EB] text-white py-24 overflow-hidden relative">
+<section class="bg-gray-950 text-white py-24 overflow-hidden relative">
   <!-- Background gradient effect -->
-  <div class="absolute inset-0 bg-gradient-to-b from-[#3B82F6] to-[#1D4ED8] opacity-100"></div>
+  <div class="absolute inset-0 bg-gradient-to-b from-gray-900 to-black opacity-100"></div>
   
   <div class="relative max-w-[1200px] mx-auto px-6 text-center">
     <h2 class="text-5xl font-bold mb-6 tracking-tight leading-tight">
-      Groundbreaking<br>Design Management
+      Webflow Systems<br>Built for Scale
     </h2>
-    <p class="text-blue-100 text-lg max-w-2xl mx-auto mb-16 leading-relaxed">
-      First-of-its-kind version control designed just for hardware. Config lets you track, annotate, and approve every critical decision. All without files, formats, and out-of-date versions getting in the way.
+    <p class="text-gray-300 text-lg max-w-2xl mx-auto mb-16 leading-relaxed">
+      Our structured approach to Webflow development ensures your website can grow with your business. Clean architecture, reusable components, and scalable CMS structures that your team can manage with confidence.
     </p>
 
     <!-- UI Mockup -->
@@ -188,16 +188,16 @@
     </div>
     
     <!-- Bottom Logos -->
-    <div class="mt-12 flex items-center justify-center gap-4 bg-[#1E293B] rounded-lg p-4 max-w-4xl mx-auto border border-gray-700">
-       <div class="flex items-center gap-4 border-r border-gray-600 pr-4">
-          <div class="w-8 h-8 bg-white rounded flex items-center justify-center font-bold text-black text-xs">NX</div>
-          <div class="w-8 h-8 bg-red-600 rounded flex items-center justify-center font-bold text-white text-xs">S</div>
-          <div class="w-8 h-8 bg-yellow-600 rounded flex items-center justify-center font-bold text-black text-xs">A</div>
+    <div class="mt-12 flex items-center justify-center gap-4 bg-gray-900 rounded-lg p-4 max-w-4xl mx-auto border border-gray-800">
+       <div class="flex items-center gap-4 border-r border-gray-700 pr-4">
+          <div class="w-8 h-8 bg-primary-500 rounded flex items-center justify-center font-bold text-white text-xs">W</div>
+          <div class="w-8 h-8 bg-white rounded flex items-center justify-center font-bold text-black text-xs">F</div>
+          <div class="w-8 h-8 bg-gray-700 rounded flex items-center justify-center font-bold text-white text-xs">CMS</div>
        </div>
        <p class="text-xs text-gray-400 text-left flex-1">
-          Config works right out of the box with the CAD software of your choice. Manage designs, commit changes, and create revisions for mechanical and electrical designs directly from NX, SolidWorks, or Altium.
+          BrightSite specializes in Webflow development with a focus on scalable CMS architecture, custom interactions, and performance optimization. Every project is built with growth and maintainability in mind.
        </p>
-       <button class="bg-[#2563EB] text-white px-3 py-1.5 rounded text-xs font-semibold hover:bg-blue-600">Get started</button>
+       <button class="bg-white text-black px-3 py-1.5 rounded text-xs font-semibold hover:bg-gray-100">Start a Project</button>
     </div>
   </div>
 </section>

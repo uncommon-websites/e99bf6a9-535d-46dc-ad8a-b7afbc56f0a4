@@ -9,7 +9,7 @@
   import FooterSection from '$lib/components/FooterSection.svelte';
 </script>
 
-<main class="font-sans antialiased text-gray-900 bg-white selection:bg-blue-100 selection:text-blue-900">
+<main class="font-sans antialiased text-gray-900 bg-white selection:bg-primary-100 selection:text-primary-900">
   <Navbar />
   <Hero />
   <DesignManagement />

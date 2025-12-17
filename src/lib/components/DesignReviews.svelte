@@ -1,12 +1,12 @@
 <script>
-  let activeTab = 'Geometry';
-  const tabs = ['Geometry', 'Drawing', 'Layout', 'Schematic'];
+  let activeTab = 'Discovery';
+  const tabs = ['Discovery', 'Design', 'Development', 'Launch'];
 </script>
 
 <section class="py-24 bg-white text-center">
   <div class="max-w-[1200px] mx-auto px-6">
     <h2 class="text-5xl font-bold mb-6 tracking-tight text-gray-900">
-      Magical Design<br>Reviews
+      Collaborative Design<br>Process
     </h2>
     
     <!-- Tabs -->
@@ -24,8 +24,7 @@
     </div>
 
     <p class="text-lg text-gray-600 mb-16 max-w-2xl mx-auto leading-relaxed">
-      Collaborate with your team on every revision of every part right in the browser.<br>
-      Add annotations, comments, and complete reviews.
+      Stay in the loop with real-time collaboration. Our transparent process keeps you informed at every stage, from concept to launch.
     </p>
 
     <!-- UI Mockup -->

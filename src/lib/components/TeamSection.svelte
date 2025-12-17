@@ -5,88 +5,35 @@
   <div class="max-w-[1200px] mx-auto px-6">
     <div class="mb-16">
       <h2 class="text-5xl font-bold mb-6 tracking-tight text-gray-900 leading-tight">
-        Finally. Your Team, on<br>the Same Page
+        Meet Your<br>Development Partner
       </h2>
       <p class="text-lg text-gray-600 max-w-2xl leading-relaxed">
-        Config brings together all your teams to speed up and simplify shipping high-quality hardware.
+        Led by Zebediah Miller, BrightSite combines technical expertise with strategic thinking to deliver websites that drive real business growth.
       </p>
     </div>
 
     <div class="grid grid-cols-1 lg:grid-cols-3 gap-6">
       <!-- Left Column Group -->
       <div class="lg:col-span-2 flex flex-col gap-6">
-        <!-- Builds and Procurement Card -->
-        <div class="bg-gradient-to-br from-[#4B88A2] to-[#3B7288] rounded-2xl p-8 text-white relative overflow-hidden h-[400px]">
-           <div class="relative z-10">
-              <h3 class="text-xl font-bold mb-2">Builds and Procurement</h3>
-              <p class="text-blue-100 text-sm max-w-sm mb-8">
-                 Birds-eye view of your build progress without relying on out-of-date and error-prone spreadsheets.
+        <!-- Founder Card -->
+        <div class="bg-gradient-to-br from-primary-600 to-primary-700 rounded-2xl p-8 text-white relative overflow-hidden h-[400px]">
+           <div class="relative z-10 h-full flex flex-col">
+              <h3 class="text-xl font-bold mb-2">Zebediah Miller</h3>
+              <p class="text-primary-100 text-sm mb-4">
+                 Founder & Lead Developer
+              </p>
+              <p class="text-primary-50 text-sm max-w-sm mb-6 leading-relaxed">
+                 With years of experience in Webflow development and a deep understanding of mid-market business needs, Zebediah builds scalable systems that empower marketing teams to achieve their growth goals.
               </p>
               
-              <!-- Chart UI -->
-              <div class="bg-white rounded-xl shadow-lg p-4 text-gray-900 max-w-lg">
-                 <div class="flex items-center gap-2 mb-4">
-                    <div class="h-2 w-full bg-blue-100 rounded-full overflow-hidden flex">
-                       <div class="w-[78%] bg-blue-500"></div>
-                       <div class="w-[12%] bg-orange-400"></div>
-                       <div class="w-[10%] bg-gray-200"></div>
-                    </div>
-                    <span class="text-xs font-bold">317 total parts</span>
-                 </div>
-                 
-                 <div class="space-y-3">
-                    <div class="flex items-center justify-between text-xs">
-                       <div class="flex items-center gap-2">
-                          <div class="w-2 h-2 rounded-full bg-blue-500"></div>
-                          <span>Not released</span>
-                       </div>
-                       <div class="flex items-center gap-8">
-                          <span>272</span>
-                          <span>78.11%</span>
-                          <div class="w-20 h-1.5 bg-gray-100 rounded-full overflow-hidden">
-                             <div class="w-[78%] h-full bg-blue-500"></div>
-                          </div>
-                       </div>
-                    </div>
-                    <div class="flex items-center justify-between text-xs">
-                       <div class="flex items-center gap-2">
-                          <div class="w-2 h-2 rounded-full bg-orange-400"></div>
-                          <span>Partially released</span>
-                       </div>
-                       <div class="flex items-center gap-8">
-                          <span>36</span>
-                          <span>12.4%</span>
-                          <div class="w-20 h-1.5 bg-gray-100 rounded-full overflow-hidden">
-                             <div class="w-[12%] h-full bg-orange-400"></div>
-                          </div>
-                       </div>
-                    </div>
-                    <div class="flex items-center justify-between text-xs">
-                       <div class="flex items-center gap-2">
-                          <div class="w-2 h-2 rounded-full bg-green-500"></div>
-                          <span>Ready to order</span>
-                       </div>
-                       <div class="flex items-center gap-8">
-                          <span>8</span>
-                          <span>3.28%</span>
-                          <div class="w-20 h-1.5 bg-gray-100 rounded-full overflow-hidden">
-                             <div class="w-[3%] h-full bg-green-500"></div>
-                          </div>
-                       </div>
-                    </div>
-                    <div class="flex items-center justify-between text-xs">
-                       <div class="flex items-center gap-2">
-                          <div class="w-2 h-2 rounded-full bg-gray-400"></div>
-                          <span>Ordered</span>
-                       </div>
-                       <div class="flex items-center gap-8">
-                          <span>1</span>
-                          <span>0.35%</span>
-                          <div class="w-20 h-1.5 bg-gray-100 rounded-full overflow-hidden">
-                             <div class="w-[1%] h-full bg-gray-400"></div>
-                          </div>
-                       </div>
-                    </div>
+              <!-- Founder Image -->
+              <div class="mt-auto">
+                 <div class="bg-white rounded-xl shadow-2xl overflow-hidden max-w-xs">
+                    <img 
+                      src="/generated/image-professional-web-developer-zebediah-mill-1765998267837-1.webp" 
+                      alt="Zebediah Miller, Founder of BrightSite"
+                      class="w-full h-48 object-cover"
+                    />
                  </div>
               </div>
            </div>
@@ -94,45 +41,45 @@
 
         <!-- Bottom Row -->
         <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
-           <!-- Smart Part Numbers -->
-           <div class="bg-[#1F2937] rounded-2xl p-8 text-white flex flex-col justify-between h-[280px]">
+           <!-- Technical Excellence -->
+           <div class="bg-gray-900 rounded-2xl p-8 text-white flex flex-col justify-between h-[280px]">
               <div>
-                 <h3 class="text-lg font-bold mb-2">Smart Part Numbers</h3>
+                 <h3 class="text-lg font-bold mb-2">Technical Excellence</h3>
                  <p class="text-gray-400 text-xs mb-4">
-                    Designate part type-specific families in highly customizable number schemes.
+                    Deep expertise in Webflow, custom code, and performance optimization ensures your website is built to the highest standards.
                  </p>
               </div>
-              <div class="text-center mt-auto">
-                 <div class="text-5xl font-mono font-bold tracking-tighter flex items-center justify-center gap-2">
-                    <span class="text-gray-500">415</span>
-                    <span class="text-gray-600">-</span>
-                    <span class="text-white">1986</span>
+              <div class="flex items-center justify-center gap-4 mt-auto">
+                 <div class="text-center">
+                    <div class="text-3xl font-bold text-primary-500">100%</div>
+                    <div class="text-[10px] text-gray-500 uppercase tracking-wider">Webflow Certified</div>
                  </div>
-                 <div class="flex justify-between px-8 mt-2 text-[10px] text-gray-500 uppercase tracking-widest">
-                    <span>Commodity Code</span>
-                    <span>Part Identifier</span>
+                 <div class="w-px h-12 bg-gray-700"></div>
+                 <div class="text-center">
+                    <div class="text-3xl font-bold text-primary-500">5+</div>
+                    <div class="text-[10px] text-gray-500 uppercase tracking-wider">Years Experience</div>
                  </div>
               </div>
            </div>
 
-           <!-- One-Click Ownership -->
-           <div class="bg-[#1D4ED8] rounded-2xl p-8 text-white flex flex-col items-center text-center justify-center h-[280px]">
-              <div class="bg-white text-gray-900 px-4 py-2 rounded-lg font-bold text-sm mb-6 shadow-lg flex items-center gap-2">
-                 <span>👤</span> Takeover as DRI
+           <!-- Business Focus -->
+           <div class="bg-gray-900 rounded-2xl p-8 text-white flex flex-col items-center text-center justify-center h-[280px]">
+              <div class="w-12 h-12 bg-primary-500 rounded-full flex items-center justify-center mb-4">
+                 <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 20V10"/><path d="M12 20V4"/><path d="M6 20v-6"/></svg>
               </div>
-              <h3 class="text-lg font-bold mb-2">One-Click Ownership</h3>
-              <p class="text-blue-200 text-xs">
-                 You don't have to give up accountability to make hand-off easier. Easily take ownership of any part.
+              <h3 class="text-lg font-bold mb-2">Growth-Focused</h3>
+              <p class="text-gray-400 text-xs max-w-xs">
+                 Every decision is made with your business goals in mind. We build websites that drive conversions and support sustainable growth.
               </p>
            </div>
         </div>
       </div>
 
       <!-- Right Column -->
-      <div class="bg-gradient-to-br from-[#BE4B6A] to-[#9B3B55] rounded-2xl p-8 text-white relative overflow-hidden h-full min-h-[600px]">
-         <h3 class="text-xl font-bold mb-2">Capture Every Decision</h3>
-         <p class="text-pink-100 text-sm mb-8">
-            Fully reviewable revision and commit history for every part in your project. Never question which version or which part ever again.
+      <div class="bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl p-8 text-white relative overflow-hidden h-full min-h-[600px]">
+         <h3 class="text-xl font-bold mb-2">Our Process</h3>
+         <p class="text-gray-300 text-sm mb-8">
+            A proven methodology that ensures quality, transparency, and results at every stage of your project.
          </p>
          
          <!-- Timeline UI -->
@@ -141,78 +88,73 @@
             
             <div class="space-y-6 pt-4 pl-2">
                <!-- Timeline Item -->
-               <div class="relative pl-6 border-l-2 border-gray-200">
-                  <div class="absolute -left-[5px] top-0 w-2 h-2 rounded-full bg-blue-500"></div>
+               <div class="relative pl-6 border-l-2 border-primary-500">
+                  <div class="absolute -left-[5px] top-0 w-2 h-2 rounded-full bg-primary-500"></div>
                   <div class="flex justify-between items-start mb-1">
-                     <span class="text-xs font-bold">Revision 8</span>
-                     <span class="text-[10px] bg-blue-100 text-blue-600 px-1 rounded">In Review</span>
+                     <span class="text-xs font-bold">Discovery</span>
+                     <span class="text-[10px] bg-primary-100 text-primary-600 px-1 rounded">Week 1</span>
                   </div>
-                  <p class="text-[10px] text-gray-500">Adjusted the mounting method from front screws to 4 bottom torx scre...</p>
+                  <p class="text-[10px] text-gray-500">Deep dive into your business goals, target audience, and technical requirements to create a strategic foundation.</p>
                </div>
 
                <!-- Timeline Item -->
-               <div class="relative pl-6 border-l-2 border-gray-200">
-                  <div class="absolute -left-[5px] top-0 w-2 h-2 rounded-full bg-gray-300"></div>
+               <div class="relative pl-6 border-l-2 border-primary-500">
+                  <div class="absolute -left-[5px] top-0 w-2 h-2 rounded-full bg-primary-500"></div>
                   <div class="flex justify-between items-start mb-1">
-                     <span class="text-xs font-bold text-gray-500">Revision 7</span>
+                     <span class="text-xs font-bold">Strategy & Planning</span>
+                     <span class="text-[10px] bg-primary-100 text-primary-600 px-1 rounded">Week 2</span>
                   </div>
-                  <p class="text-[10px] text-gray-500">The top on the sides adjusted as per Jane's suggestion for easier tool re...</p>
+                  <p class="text-[10px] text-gray-500">Define site architecture, user flows, and technical specifications. Map out the scalable CMS structure.</p>
                </div>
                
                <!-- Timeline Item -->
-               <div class="relative pl-6 border-l-2 border-gray-200">
-                  <div class="absolute -left-[5px] top-0 w-2 h-2 rounded-full bg-gray-300"></div>
+               <div class="relative pl-6 border-l-2 border-primary-500">
+                  <div class="absolute -left-[5px] top-0 w-2 h-2 rounded-full bg-primary-500"></div>
                   <div class="flex justify-between items-start mb-1">
-                     <span class="text-xs font-bold text-gray-500">Revision 6</span>
+                     <span class="text-xs font-bold">Design</span>
+                     <span class="text-[10px] bg-primary-100 text-primary-600 px-1 rounded">Week 3-4</span>
                   </div>
-                  <p class="text-[10px] text-gray-500">Multiple big changes in this one. Going to be one of those things that n...</p>
+                  <p class="text-[10px] text-gray-500">Create high-fidelity designs in Figma with a focus on conversion optimization and brand consistency.</p>
                </div>
 
+               <!-- Timeline Item -->
+               <div class="relative pl-6 border-l-2 border-primary-500">
+                  <div class="absolute -left-[5px] top-0 w-2 h-2 rounded-full bg-primary-500"></div>
+                  <div class="flex justify-between items-start mb-1">
+                     <span class="text-xs font-bold">Development</span>
+                     <span class="text-[10px] bg-primary-100 text-primary-600 px-1 rounded">Week 5-7</span>
+                  </div>
+                  <p class="text-[10px] text-gray-500">Build in Webflow with clean code, reusable components, and optimized performance. Regular check-ins keep you informed.</p>
+               </div>
+
+               <!-- Timeline Item -->
+               <div class="relative pl-6 border-l-2 border-primary-500">
+                  <div class="absolute -left-[5px] top-0 w-2 h-2 rounded-full bg-primary-500"></div>
+                  <div class="flex justify-between items-start mb-1">
+                     <span class="text-xs font-bold">Testing & QA</span>
+                     <span class="text-[10px] bg-primary-100 text-primary-600 px-1 rounded">Week 8</span>
+                  </div>
+                  <p class="text-[10px] text-gray-500">Comprehensive testing across devices and browsers. Performance optimization and accessibility checks.</p>
+               </div>
+               
                <!-- Timeline Item -->
                <div class="relative pl-6 border-l-2 border-gray-200">
                   <div class="absolute -left-[5px] top-0 w-2 h-2 rounded-full bg-green-500"></div>
                   <div class="flex justify-between items-start mb-1">
-                     <span class="text-xs font-bold text-gray-900">Revision 5</span>
-                     <span class="text-[10px] bg-green-100 text-green-600 px-1 rounded">Released</span>
+                     <span class="text-xs font-bold text-gray-900">Launch</span>
+                     <span class="text-[10px] bg-green-100 text-green-600 px-1 rounded">Week 9</span>
                   </div>
-                  <p class="text-[10px] text-gray-500">The bottom machined out holes for silicone feet are sitting a little more snu...</p>
-               </div>
-
-               <!-- Timeline Item -->
-               <div class="relative pl-6 border-l-2 border-gray-200">
-                  <div class="absolute -left-[5px] top-0 w-2 h-2 rounded-full bg-gray-300"></div>
-                  <div class="flex justify-between items-start mb-1">
-                     <span class="text-xs font-bold text-gray-500">Revision 4</span>
-                  </div>
-                  <p class="text-[10px] text-gray-500">reduced to match reduced to match reduced to match...</p>
+                  <p class="text-[10px] text-gray-500">Smooth deployment with DNS setup, analytics integration, and team training on CMS management.</p>
                </div>
                
                <!-- Timeline Item -->
                <div class="relative pl-6 border-l-2 border-gray-200">
-                  <div class="absolute -left-[5px] top-0 w-2 h-2 rounded-full bg-green-500"></div>
+                  <div class="absolute -left-[5px] top-0 w-2 h-2 rounded-full bg-primary-500"></div>
                   <div class="flex justify-between items-start mb-1">
-                     <span class="text-xs font-bold text-gray-900">Revision 3</span>
-                     <span class="text-[10px] bg-green-100 text-green-600 px-1 rounded">Released</span>
+                     <span class="text-xs font-bold text-gray-900">Ongoing Support</span>
+                     <span class="text-[10px] bg-gray-100 text-gray-600 px-1 rounded">Continuous</span>
                   </div>
-                  <p class="text-[10px] text-gray-500">Minor adjustment for DVT: fillet radius reduced to match standard tool si...</p>
-               </div>
-               
-               <!-- Timeline Item -->
-               <div class="relative pl-6 border-l-2 border-gray-200">
-                  <div class="absolute -left-[5px] top-0 w-2 h-2 rounded-full bg-gray-300"></div>
-                  <div class="flex justify-between items-start mb-1">
-                     <span class="text-xs font-bold text-gray-500">Revision 2</span>
-                  </div>
-                  <p class="text-[10px] text-gray-500">First DVT release: candidate of bottom enclosure, pending checklist comple...</p>
-               </div>
-               
-               <!-- Timeline Item -->
-               <div class="relative pl-6 border-l-2 border-gray-200">
-                  <div class="absolute -left-[5px] top-0 w-2 h-2 rounded-full bg-red-500"></div>
-                  <div class="flex justify-between items-start mb-1">
-                     <span class="text-xs font-bold text-gray-500">Revision 1</span>
-                     <span class="text-[10px] bg-red-100 text-red-600 px-1 rounded">Blocked</span>
-                  </div>
+                  <p class="text-[10px] text-gray-500">Post-launch support and optimization. We're here to help your website evolve with your business.</p>
                </div>
             </div>
             

@@ -1,14 +1,14 @@
 <script>
 </script>
 
-<section class="bg-[#0B0F19] text-white py-24">
+<section class="bg-gray-950 text-white py-24">
   <div class="max-w-[1200px] mx-auto px-6">
     <div class="text-center mb-16">
       <h2 class="text-5xl font-bold mb-6 tracking-tight">
-        One-click Bill of Materials
+        Strategic Growth Through<br>Smart Web Development
       </h2>
       <p class="text-gray-400 text-lg max-w-2xl mx-auto leading-relaxed">
-        Save your team's precious time. Config replaces the lengthy process of manual BOM creation with one-click BOM from your engineering assembly, all driven by CAD.
+        We don't just build websites—we create growth engines. Our strategic approach combines technical excellence with business understanding to drive measurable results.
       </p>
     </div>
 
@@ -79,78 +79,78 @@
        <!-- Feature 1 -->
        <div>
           <div class="flex items-center gap-3 mb-3">
-             <div class="text-gray-400">
-                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="4" y="4" width="6" height="6" rx="1"/><rect x="14" y="4" width="6" height="6" rx="1"/><rect x="4" y="14" width="6" height="6" rx="1"/><path d="M14 17h6"/></svg>
+             <div class="text-primary-500">
+                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2L2 7l10 5 10-5-10-5z"/><path d="M2 17l10 5 10-5"/><path d="M2 12l10 5 10-5"/></svg>
              </div>
-             <h3 class="text-lg font-bold text-white">Assembly Hierarchies</h3>
+             <h3 class="text-lg font-bold text-white">Component Architecture</h3>
           </div>
           <p class="text-sm text-gray-400 leading-relaxed">
-             Toggle and re-order assembly hierarchies by just dragging them around. No more manual marking of levels.
+             Build once, use everywhere. Our modular approach creates reusable components that maintain consistency and speed up future updates.
           </p>
        </div>
 
        <!-- Feature 2 -->
        <div>
           <div class="flex items-center gap-3 mb-3">
-             <div class="text-gray-400">
-                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 20h9"/><path d="M16.5 3.5a2.121 2.121 0 0 1 3 3L7 19l-4 1 1-4L16.5 3.5z"/></svg>
+             <div class="text-primary-500">
+                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="7" height="7"/><rect x="14" y="3" width="7" height="7"/><rect x="14" y="14" width="7" height="7"/><rect x="3" y="14" width="7" height="7"/></svg>
              </div>
-             <h3 class="text-lg font-bold text-white">Smart Redlining</h3>
+             <h3 class="text-lg font-bold text-white">CMS Mastery</h3>
           </div>
           <p class="text-sm text-gray-400 leading-relaxed">
-             See what has been changed, added, or removed between your BOM revisions just by glancing at the colors.
+             Empower your team with intuitive content management. We structure your CMS for easy updates without developer dependency.
           </p>
        </div>
 
        <!-- Feature 3 -->
        <div>
           <div class="flex items-center gap-3 mb-3">
-             <div class="text-gray-400">
-                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21.5 2v6h-6"/><path d="M2.5 22v-6h6"/><path d="M2 11.5a10 10 0 0 1 18.8-4.3L21.5 8"/><path d="M22 12.5a10 10 0 0 1-18.8 4.2L2.5 16"/></svg>
+             <div class="text-primary-500">
+                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="22 12 18 12 15 21 9 3 6 12 2 12"/></svg>
              </div>
-             <h3 class="text-lg font-bold text-white">Automatic Revision Updates</h3>
+             <h3 class="text-lg font-bold text-white">Performance First</h3>
           </div>
           <p class="text-sm text-gray-400 leading-relaxed">
-             Keep your part revisions up to date with one-click that re-synchronizes CAD data throughout your entire assembly.
+             Fast websites convert better. We optimize every aspect from load times to Core Web Vitals for maximum performance.
           </p>
        </div>
 
        <!-- Feature 4 -->
        <div>
           <div class="flex items-center gap-3 mb-3">
-             <div class="text-gray-400">
-                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 9h16"/><path d="M4 15h16"/><path d="M10 3L8 21"/><path d="M16 3l-2 18"/></svg>
+             <div class="text-primary-500">
+                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 20V10"/><path d="M12 20V4"/><path d="M6 20v-6"/></svg>
              </div>
-             <h3 class="text-lg font-bold text-white">Part Numbers</h3>
+             <h3 class="text-lg font-bold text-white">Growth Analytics</h3>
           </div>
           <p class="text-sm text-gray-400 leading-relaxed">
-             Assign new or existing part numbers to parts right from the BOM. Never end up with duplicate part numbers ever again.
+             Track what matters. We integrate analytics and conversion tracking to measure and optimize your website's impact.
           </p>
        </div>
 
        <!-- Feature 5 -->
        <div>
           <div class="flex items-center gap-3 mb-3">
-             <div class="text-gray-400">
-                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>
+             <div class="text-primary-500">
+                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M23 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/></svg>
              </div>
-             <h3 class="text-lg font-bold text-white">Change History</h3>
+             <h3 class="text-lg font-bold text-white">Strategic Partnership</h3>
           </div>
           <p class="text-sm text-gray-400 leading-relaxed">
-             Every change to a BOM item is recorded at both a part and BOM level for maximum traceability.
+             More than a vendor. We become an extension of your team, understanding your business goals and growth strategy.
           </p>
        </div>
 
        <!-- Feature 6 -->
        <div>
           <div class="flex items-center gap-3 mb-3">
-             <div class="text-gray-400">
-                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z"/><polyline points="3.27 6.96 12 12.01 20.73 6.96"/><line x1="12" y1="22.08" x2="12" y2="12"/></svg>
+             <div class="text-primary-500">
+                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg>
              </div>
-             <h3 class="text-lg font-bold text-white">Placeholders</h3>
+             <h3 class="text-lg font-bold text-white">Future-Proof Systems</h3>
           </div>
           <p class="text-sm text-gray-400 leading-relaxed">
-             Ready yet? Easily sketch out your first BOM just like a spreadsheet and assign part numbers before CAD is ready.
+             Build for tomorrow. Our scalable architecture ensures your website can evolve with your business needs.
           </p>
        </div>
     </div>

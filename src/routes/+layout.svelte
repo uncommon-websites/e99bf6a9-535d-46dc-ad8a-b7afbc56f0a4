@@ -3,7 +3,8 @@
 </script>
 
 <svelte:head>
-	<title>Config - Superpowers for Hardware Teams</title>
+	<title>BrightSite - Scalable Webflow Systems for Growth</title>
+	<meta name="description" content="Transform your website into a strategic growth engine through scalable Webflow systems and expert partnership." />
 </svelte:head>
 
 <slot />
